@@ -1,0 +1,4 @@
+-i https://pypi.org/simple
+requests==2.32.3
+pytest==8.3.3
+pydantic==2.9.2

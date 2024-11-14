@@ -1,0 +1,16 @@
+.*
+_out/
+*.json
+*.log
+*.xml
+*.lock
+__pycache__/
+.venv
+.idea
+
+!.dockeringore
+!.gitignore
+!.gitlab-ci.yml
+!.env-template
+!.grype.yaml
+!.pre-commit-config.yaml
